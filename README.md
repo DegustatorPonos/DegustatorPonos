@@ -6,11 +6,11 @@ At the same time I'm really passionate about gamedev and currently really slowly
 ## I've worked with:
 - C# (.NET, ASP.NET, WinForms, Monogame) - main tool I use for backend. It feels good to develop with and works decently good and reliable.
 - JavaScript (in combination with HTML+CSS) - Sometimes you have to do things you are not a fan of. JS is one of those.
-- Bash - I've done some things with this such as a IO event handler and API with NGINX and never was the development so miserable.
+- Bash - I've done some things with this such as a IO event handler and API (hosted with NGINX) and never was the development so miserable.
 
 ## I'm currently learning:
-- Golang - The language I tried and it felt good. Currently there is a project I write to learn it beyond basic operations and MVC.
-- C - Its a must-have and I gave no idea how I haven't seriously touched it before.
+- Golang - The language I tried by accident and it felt good. Currently there is a project I write to learn it beyond basic operations and MVC.
+- C - Its a must-have and I have no idea how I haven't seriously touched it before.
 
 <!--
 **DegustatorPonos/DegustatorPonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
