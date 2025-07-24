@@ -12,6 +12,10 @@ At the same time I'm really passionate about gamedev and currently really slowly
 ## I'm currently learning:
 - C - Its a must-have and I have no idea how I haven't seriously touched it before.
 
+# No AI code is used in my personal projects*
+
+
+
 <!--
 **DegustatorPonos/DegustatorPonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
